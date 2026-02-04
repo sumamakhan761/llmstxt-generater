@@ -1,0 +1,52 @@
+# https://www.firecrawl.dev llms.txt
+
+- [Web Data Scraping](https://www.firecrawl.dev/): Transform web data into AI-ready structured content.
+- [Web Data Extraction Playground](https://www.firecrawl.dev/playground): All-in-one platform for web data extraction and scraping.
+- [Open Agent Builder Tool](https://www.firecrawl.dev/blog/open-agent-builder): Open-source visual tool to build AI agent workflows easily.
+- [Medical AI Application](https://www.firecrawl.dev/blog/building_medical_ai_application_with_grok_4): Create a medical AI app with Grok 4 for prescriptions.
+- [AI Engineering Resources](https://www.firecrawl.dev/blog/category/ai-engineering): Explore AI engineering with tutorials, tools, and insights.
+- [AI Chat Support](https://www.firecrawl.dev/use-cases/ai-chats): Effortlessly power AI chats with real-time web data extraction.
+- [Best Web Extraction Tool](https://www.firecrawl.dev/glossary/web-extraction-apis/best-tool-extracting-content-redesigning-pages): AI-powered tool streamlining web content extraction effortlessly.
+- [Firecrawl Sign In](https://www.firecrawl.dev/signin): User login and account creation for Firecrawl services.
+- [Instant Chatbot Creation](https://www.firecrawl.dev/blog/firestarter-rag-chatbot-generator): Build AI chatbots from any website in seconds.
+- [CSS Selectors in Scraping](https://www.firecrawl.dev/glossary/web-extraction-apis/what-is-css-selector-web-scraping): Learn about CSS selectors for web scraping efficiency.
+- [Enterprise Data Solutions](https://www.firecrawl.dev/enterprise): Enterprise solutions for reliable web data extraction and security.
+- [Proxy in Web Scraping](https://www.firecrawl.dev/glossary/web-scraping-apis/what-is-proxy-web-scraping): Proxy servers in web scraping manage requests and IP distribution.
+- [Web Integration Solutions](https://www.firecrawl.dev/integrations): Integrate your tools with Firecrawl for web data access.
+- [Crawl Delay Explanation](https://www.firecrawl.dev/glossary/web-crawling-apis/what-is-crawl-delay): Understanding crawl delay and its varying interpretations by crawlers.
+- [Fireplexity AI Engine](https://www.firecrawl.dev/blog/introducing-fireplexity-open-source-answer-engine): Open source Fireplexity enables custom AI search experiences.
+- [Crawl Webhooks Overview](https://www.firecrawl.dev/blog/launch-week-i-day-7-webhooks): Explore Firecrawl’s new webhook features for web data integration.
+- [Website Contradictions Agent](https://www.firecrawl.dev/blog/contradiction-agent): Learn to build an agent for identifying website contradictions.
+- [E-Commerce Intelligence App](https://www.firecrawl.dev/blog/building-ecommerce-intelligence-app-with-glm-4-6): Build an E-Commerce Intelligence app using GLM-4.6 model.
+- [Spark Models Overview](https://www.firecrawl.dev/playground/0d37e2ae-b02f-4234-8fcf-4c2d792ea7e6): Discover Spark models for seamless web data extraction
+- [Email Confirmation Page](https://www.firecrawl.dev/signin/confirm-email): Confirm your email to complete sign-in process.
+- [Web Data Extraction Calculator](https://www.firecrawl.dev/extract-calculator): Estimate credits required for web data extraction tasks.
+- [Multi-Agent Systems Tutorial](https://www.firecrawl.dev/blog/crewai-multi-agent-systems-tutorial): Learn to build advanced multi-agent systems with CrewAI.
+- [Batch Web Scraping](https://www.firecrawl.dev/glossary/web-scraping-apis/what-is-batch-web-scraping): Batch web scraping accelerates data extraction via parallel requests.
+- [Map Endpoint Introduction](https://www.firecrawl.dev/blog/launch-week-i-day-3-introducing-map-endpoint): Discover Firecrawl's new Map Endpoint for web scraping.
+- [July 2024 Updates](https://www.firecrawl.dev/blog/firecrawl-july-2024-updates): Firecrawl's July 2024 updates include new features and job openings.
+- [Website Summarization Tool](https://www.firecrawl.dev/glossary/web-extraction-apis/build-agent-summarize-website): Easily summarize websites using Firecrawl's intelligent agents.
+- [Monthly Portfolios Overview](https://www.firecrawl.dev/share/agent/8f773973-c07e-4111-abee-1ed36961abb5): Access various monthly portfolios for Shriram Mutual Fund.
+- [Firecrawl Changelog](https://www.firecrawl.dev/changelog#/extract-changes): Firecrawl changelog highlights major updates for agents and APIs.
+- [MCP vs A2A Protocols](https://www.firecrawl.dev/blog/mcp-vs-a2a-protocols): Explore MCP and A2A protocols for AI collaboration.
+- [Enterprise Web Scraping](https://www.firecrawl.dev/glossary/web-scraping-apis/what-is-enterprise-web-scraping): Enterprise web scraping provides compliant, reliable data solutions.
+- [Competitive Intelligence](https://www.firecrawl.dev/use-cases/competitive-intelligence): Automate competitor site monitoring for strategic insights.
+- [Firecrawl v2.5 Overview](https://www.firecrawl.dev/blog/the-worlds-best-web-data-api-v25): Discover Firecrawl v2.5 for efficient, high-quality web data extraction.
+- [Web Crawling APIs Overview](https://www.firecrawl.dev/glossary/web-extraction-apis/what-is-web-crawling-api): Explore the capabilities and uses of web crawling APIs.
+- [Web Data Extraction](https://www.firecrawl.dev/playground/pTqXfyQr2b3RMGFWkqnu3): Explore Firecrawl's tools for web data extraction and analysis.
+- [Using OpenAI Structured Outputs](https://www.firecrawl.dev/blog/using-structured-output-and-json-strict-mode-openai): Learn to extract structured data using OpenAI's strict JSON.
+- [News Article Extraction](https://www.firecrawl.dev/glossary/web-extraction-apis/what-is-news-article-extraction): Learn news article extraction for clean data collection.
+- [Firecrawl CLI and Skill](https://www.firecrawl.dev/blog/introducing-firecrawl-skill-and-cli): Announcing Firecrawl CLI and Skill for real-time web data.
+- [Subscription Activation](https://www.firecrawl.dev/success): Your subscription is active with faster web scraping capabilities.
+- [Location and Language Settings](https://www.firecrawl.dev/blog/launch-week-ii-day-2-introducing-location-language-settings): Discover Firecrawl's new location and language settings feature
+- [Firecrawl Brand Assets](https://www.firecrawl.dev/brand): Download Firecrawl's brand assets for consistency and recognition.
+- [Speak with Any Website](https://www.firecrawl.dev/blog/How-to-Talk-with-Any-Website-Using-OpenAIs-Realtime-API-and-Firecrawl): Learn to build real-time web interaction using APIs.
+- [Firecrawl Data Extraction](https://www.firecrawl.dev/blog/introducing-agent#/agent-vs-/extract): Efficiently gather web data using Firecrawl's intelligent agent.
+- [Understanding 520 Status Code](https://www.firecrawl.dev/glossary/web-scraping-apis/what-is-520-status-code-how-to-avoid): Learn about 520 status codes and avoid them effectively.
+- [Firecrawl vs Octoparse](https://www.firecrawl.dev/blog/firecrawl-vs-octoparse-data-extraction): Firecrawl excels over Octoparse for AI web scraping needs.
+- [Flexible Pricing Plans](https://www.firecrawl.dev/pricing): Explore flexible, transparent pricing for web scraping solutions.
+- [Web Data Extraction Insights](https://www.firecrawl.dev/blog): Insights, updates, and guides on web data extraction tools.
+- [Firecrawl Agent Overview](https://www.firecrawl.dev/agent): Efficiently extract web data using Firecrawl Agent's CLI.
+- [Firecrawl Changelog Updates](https://www.firecrawl.dev/changelog): Explore Firecrawl's changelog for version updates and enhancements.
+- [Web Data APIs Glossary](https://www.firecrawl.dev/glossary): Comprehensive glossary for web search and data extraction APIs.
+- [Firecrawl Careers Page](https://www.firecrawl.dev/careers): Join Firecrawl’s innovative team and explore exciting career opportunities.
